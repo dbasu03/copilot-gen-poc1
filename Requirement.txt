@@ -1,4 +1,7 @@
-pandas
+streamlit
+transformers
+torch  
 sentence-transformers
 faiss-cpu
 faiss-gpu
+pandas
