@@ -3,5 +3,4 @@ transformers
 torch  
 sentence-transformers==2.2.0
 faiss-cpu
-faiss-gpu
 pandas
